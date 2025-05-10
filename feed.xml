@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Dargarth</title>
-    <link href="https://dargarth.org/feed.xml" rel="self" />
-    <link href="https://dargarth.org" />
+    <link href="https://new.dargarth.org/feed.xml" rel="self" />
+    <link href="https://new.dargarth.org" />
     <updated>2025-05-08T18:29:10-07:00</updated>
     <author>
         <name>Salt</name>
     </author>
-    <id>https://dargarth.org</id>
+    <id>https://new.dargarth.org</id>
 
     <entry>
         <title>The wiki is back up!</title>
         <author>
             <name>Salt</name>
         </author>
-        <link href="https://dargarth.org/p/the-wiki-is-back-up/"/>
-        <id>https://dargarth.org/p/the-wiki-is-back-up/</id>
+        <link href="https://new.dargarth.org/p/the-wiki-is-back-up/"/>
+        <id>https://new.dargarth.org/p/the-wiki-is-back-up/</id>
 
         <updated>2018-10-21T22:28:00-07:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Salt</name>
         </author>
-        <link href="https://dargarth.org/p/working-on-it/"/>
-        <id>https://dargarth.org/p/working-on-it/</id>
+        <link href="https://new.dargarth.org/p/working-on-it/"/>
+        <id>https://new.dargarth.org/p/working-on-it/</id>
 
         <updated>2018-10-18T22:06:00-07:00</updated>
             <summary>

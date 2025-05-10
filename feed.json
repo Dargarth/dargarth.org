@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Dargarth",
     "description": "",
-    "home_page_url": "https://dargarth.org",
-    "feed_url": "https://dargarth.org/feed.json",
+    "home_page_url": "https://new.dargarth.org",
+    "feed_url": "https://new.dargarth.org/feed.json",
     "user_comment": "",
-    "icon": "https://dargarth.org/media/website/sealnolocation.png",
+    "icon": "https://new.dargarth.org/media/website/sealnolocation.png",
     "author": {
         "name": "Salt"
     },
     "items": [
         {
-            "id": "https://dargarth.org/p/the-wiki-is-back-up/",
-            "url": "https://dargarth.org/p/the-wiki-is-back-up/",
+            "id": "https://new.dargarth.org/p/the-wiki-is-back-up/",
+            "url": "https://new.dargarth.org/p/the-wiki-is-back-up/",
             "title": "The wiki is back up!",
             "summary": "https://www.dargarth.club/wiki",
             "content_html": "<p><a href=\"https://dargarth.club/wiki\" target=\"_blank\" rel=\"noopener\">https://www.dargarth.club/wiki</a></p>",
@@ -25,8 +25,8 @@
             "date_modified": "2025-05-08T18:29:10-07:00"
         },
         {
-            "id": "https://dargarth.org/p/working-on-it/",
-            "url": "https://dargarth.org/p/working-on-it/",
+            "id": "https://new.dargarth.org/p/working-on-it/",
+            "url": "https://new.dargarth.org/p/working-on-it/",
             "title": "Working on it",
             "summary": "Just go to https://www.facebook.com/groups/dargarthseattle for now. Bear with us, thanks!!",
             "content_html": "<header></header>\n<div class=\"body entry-content\">\n<div id=\"item-5bc956834785d37e38467815\" class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" data-updated-on=\"1539921694280\">\n<div class=\"row sqs-row\">\n<div class=\"col sqs-col-12 span-12\">\n<div id=\"block-3a8d491e5357bed9d126\" class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\">\n<div class=\"sqs-block-content\">\n<div class=\"sqs-html-content\">\n<p>Just go to <a href=\"https://www.facebook.com/groups/dargarthseattle\" target=\"_blank\" rel=\"noopener\">https://www.facebook.com/groups/dargarthseattle</a> for now. Bear with us, thanks!!</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
