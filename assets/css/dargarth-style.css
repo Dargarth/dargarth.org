@@ -1,13 +1,20 @@
-.logo {
-  color: var(--dark) !important;
-  font-family: var(--logo-font);
+/*.logo {
   font-size: clamp(2.4728968807rem, 2.4728968807rem + 1.9354654042 * (100vw - 20rem) / 100, 4.4083622848rem);
-  font-variation-settings: "wght" var(--font-weight-bold);
-  position: relative;
-  z-index: 1;
   font-weight: bold;
 
   > img {
     height: auto;
   }
+}*/
+@media all and (max-width: 56.1875em) {
+  .header {   
+    height: auto;
+    justify-content: space-around;
+  }
+}
+.logo > img {
+  height: calc(var(--navbar-height) * 3);
+}
+.newsletter__note {
+  display: none;
 }
