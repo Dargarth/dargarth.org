@@ -18,7 +18,7 @@
         <id>https://dargarth.org/p/the-wiki-is-back-up/</id>
 
         <updated>2018-10-21T22:28:00-07:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     https://www.dargarth.club/wiki
                 ]]>
@@ -38,7 +38,7 @@
         <id>https://dargarth.org/p/working-on-it/</id>
 
         <updated>2018-10-18T22:06:00-07:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Just go to https://www.facebook.com/groups/dargarthseattle for now. Bear with us, thanks!!
                 ]]>
